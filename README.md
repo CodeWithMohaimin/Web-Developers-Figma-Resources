@@ -18,3 +18,7 @@ This repository is simple to use. Just **Fork** this repository or Download. And
 Open this **Figma-Templates** Folder and use those templates
 
 ![Download folder](./images/folder.png)
+
+## If you have some Figma templates and you wants to contribute this repository please follow those steps and guidelines
+
+**_Coming Soon..._**
