@@ -1,5 +1,7 @@
 # This repository helps those people who started to learning web development. And struggle for design templates
 
+## Google Drive - [Download Templates!](https://drive.google.com/drive/folders/1LpP2Nq7290h9hD-OyFJDkC6kmxBnP8CD?usp=sharing "Download files if you want")
+
 ![Figma Banner](images/Figma%20Design%20Template's.png)
 
 ## How To Use This Repository?
